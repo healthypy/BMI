@@ -1,4 +1,3 @@
 # BMI
-A BMI calculator,
-good
+A BMI calculator
 
